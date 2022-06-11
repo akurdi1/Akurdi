@@ -23,6 +23,56 @@ body{
     
 }
 
+            /*    new          */
+.goldin_line1{
+    position: absolute;
+    top: 50px;
+    left: 242px;
+
+    width: 520px;
+    height: 260px;
+
+    border: solid 2px goldenrod;
+    border-radius: 47% 0% 47% 0%;
+}
+.goldin_line2{
+    position: absolute;
+    top: 60px;
+    left: 260px;
+
+    width: 485px;
+    height: 240px;
+
+    border: solid 2px goldenrod;
+    border-radius: 47% 0% 47% 0%;
+}
+
+.desian1{
+    position: absolute;
+    top: 280px;
+    left: 280px;
+
+
+    width: 180px;
+    height: 8px;
+
+    border: solid 1px goldenrod;
+    border-radius: 15% 50% 50% 15%;
+    background-color:  rgb(109, 67, 67) ;
+}
+.desian2{
+    position: absolute;
+    top: 81px;
+    left: 550px;
+
+
+    width: 180px;
+    height: 8px;
+
+    border: solid 1px goldenrod;
+    border-radius: 50% 15% 15% 50%;
+    background-color:  rgb(109, 67, 67) ;
+}
 
 
 .main{
