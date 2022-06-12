@@ -6,24 +6,37 @@ body{
 
     background-color:  darkslategray ;
 }
-
-.name{
-
-    margin-top: 5%;
+.behiand_name{
+     margin-top: 5%;
     margin-left: 25%;
     width: 50%;
 
     font-size: 70px;
     color: goldenrod;
     font-family: cursive;
+    
 
-    border: solid 15px rgb(109, 67, 67);
+    border: solid 3px goldenrod;
+    border-radius: 47% 0% 47% 0%;
+    background-color:  rgb(109, 67, 67);
+    
+}
+.name{
+
+   margin: 2%;
+    width: 94%;
+
+    font-size: 70px;
+    color: goldenrod;
+    font-family: cursive;
+
+    border: solid 3px goldenrod;
     border-radius: 47% 0% 47% 0%;
     background-color: darkslategray;
     
 }
 
-            /*    new          */
+            /*    new        
 .goldin_line1{
     position: absolute;
     top: 2.4%;
@@ -46,7 +59,7 @@ body{
 
     border: solid 2px goldenrod;
     border-radius: 47% 0% 47% 0%;
-}
+}*/
 hr{
     width: 60%;
     height: 2px;
