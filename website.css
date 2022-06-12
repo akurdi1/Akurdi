@@ -26,20 +26,20 @@ body{
             /*    new          */
 .goldin_line1{
     position: absolute;
-    margin-top: -26%;
-    margin-left: -1.7%;
+    top: 2.2%;
+    left: 25%;
     width: 53%;
 
     
-    height: 264px;
+    height: 266.5px;
 
     border: solid 2px goldenrod;
     border-radius: 47% 0% 47% 0%;
 }
 .goldin_line2{
     position: absolute;
-    margin-top: -24.5%;
-    margin-left: 0%;
+    top: 3%;
+    left: 26.5%;
     width: 49.6%;
 
     height: 235.5px;
