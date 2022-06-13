@@ -11,12 +11,12 @@ body{
     margin-left: 25%;
     width: 50%;
 
-    font-size: 70px;
+    font-size: 80px;
     color: goldenrod;
     font-family: cursive;
     
 
-    border: solid 3px goldenrod;
+    border: solid 2px goldenrod;
     border-radius: 47% 0% 47% 0%;
     background-color:  rgb(109, 67, 67);
     
@@ -26,11 +26,11 @@ body{
    margin: 2%;
     width: 94%;
 
-    font-size: 70px;
+    font-size: 80px;
     color: goldenrod;
     font-family: cursive;
 
-    border: solid 3px goldenrod;
+    border: solid 2px goldenrod;
     border-radius: 47% 0% 47% 0%;
     background-color: darkslategray;
     
@@ -108,6 +108,7 @@ hr{
     margin-top: 100px;
 
     color: burlywood;
+     text-decoration:none;
 }
 i{
     font-size: 25px;
