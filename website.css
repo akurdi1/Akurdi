@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 105vh;
+    text-align: center;
+    background-color:  #e7b892;
+}
+.behiand_name{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+    font-family: cursive;  
+    border: solid 2px #2B2E4A;
+    border-radius: 47% 0% 47% 0%;
+    background-color:  #2B2E4A;
+}
+.name{
+    margin: 2%;
+    width: 94%;
+    font-size: 4.5rem;
+    color: #2B2E4A;
+    font-family: cursive;
+    border: solid 2px #2B2E4A;
+    border-radius: 47% 0% 47% 0%;
+    background-color: #94525f;
+}
+
+
+hr{
+    width: 60%;
+    height: 3.5px;
+    border-style: dashed;
+    border-radius: 30%;
+    border-color: #2B2E4A;
+} 
+.second_p{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #2B2E4A;
+}
+.content{
+    position: relative;
+    text-align: center;
+    width: 70%;
+    margin-top: 5%;
+    height: 80px;
+    border: solid 3px #2B2E4A;
+    border-radius: 35% 0% 35% 0%;
+    background-color: #53354A;
+    color: #e7b892;
+    z-index: 1;
+    font-size: xx-large;
+    transition: 1000ms;
+}
+.content:hover{
+    position: relative;
+    top: 0;
+    left: 0;
+    color:#2B2E4A;
+    background-color: #e7b892;
+    transform: scaleX(1.1);
+    transition:transform 500ms ease-in-out,background 500ms ease-in-out,color  500ms ease-in-out ;
+}
+.social1#botton-content{
+    font-size: 2.5rem;
+    text-decoration: none;
+    color: #e7b892;
+}
+.social1#botton-content:hover{
+    font-size: 2.5rem;
+    text-decoration: none; 
+    color: #53354A;
+}
