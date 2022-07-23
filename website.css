@@ -11,6 +11,7 @@ body{
     margin-top: 10%;
     margin-left: 25%;
     width: 50%;
+    height: 16rem;
     font-family: cursive;  
     border: solid 2px #2B2E4A;
     border-radius: 47% 0% 47% 0%;
@@ -30,8 +31,9 @@ body{
 
 .name{
     margin: 2%;
-    width: 94%;
-    font-size: 4.5rem;
+    width: 95%;
+    font-size: 4rem;
+    height: 14.5rem;
     color: #2B2E4A;
     font-family: cursive;
     border: solid 2px #2B2E4A;
