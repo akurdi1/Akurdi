@@ -5,6 +5,8 @@ body{
     text-align: center;
     background-color:  #e7b892;
 }
+
+
 .behiand_name{
     margin-top: 10%;
     margin-left: 25%;
@@ -14,6 +16,18 @@ body{
     border-radius: 47% 0% 47% 0%;
     background-color:  #2B2E4A;
 }
+@media (min-width:900px) {
+
+    .behiand_name{
+  
+        margin-left: 25%;
+    
+        width: 50%;
+      
+    }
+
+    }
+
 .name{
     margin: 2%;
     width: 94%;
@@ -38,6 +52,14 @@ hr{
     font-weight: bold;
     color: #2B2E4A;
 }
+@media (min-width:900px) {
+.second_p{
+
+    font-size: 2.1rem;
+
+}
+}
+
 .content{
     position: relative;
     text-align: center;
@@ -51,6 +73,13 @@ hr{
     z-index: 1;
     font-size: xx-large;
     transition: 1000ms;
+}
+@media (min-width:900px) {
+    .content{
+        height: 60px;
+        width: 50%;
+    }
+    
 }
 .content:hover{
     position: relative;
